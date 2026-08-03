@@ -30,4 +30,12 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
