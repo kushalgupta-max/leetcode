@@ -7,6 +7,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kushalgupta-max/leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/kushalgupta-max/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/kushalgupta-max/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kushalgupta-max/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -33,6 +34,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kushalgupta-max/leetcode/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/kushalgupta-max/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
