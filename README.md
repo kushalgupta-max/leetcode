@@ -33,6 +33,7 @@ this repository is used for leetcode
 | ------- |
 | [0070-climbing-stairs](https://github.com/kushalgupta-max/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/kushalgupta-max/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/kushalgupta-max/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kushalgupta-max/leetcode/tree/master/0258-add-digits) |
 | [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kushalgupta-max/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -94,6 +95,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kushalgupta-max/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/kushalgupta-max/leetcode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,4 +129,8 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kushalgupta-max/leetcode/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/kushalgupta-max/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
