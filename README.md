@@ -7,6 +7,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kushalgupta-max/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/kushalgupta-max/leetcode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/kushalgupta-max/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kushalgupta-max/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kushalgupta-max/leetcode/tree/master/0136-single-number) |
@@ -54,6 +55,7 @@ this repository is used for leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kushalgupta-max/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/kushalgupta-max/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/kushalgupta-max/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
@@ -81,6 +83,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kushalgupta-max/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/kushalgupta-max/leetcode/tree/master/0042-trapping-rain-water) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalgupta-max/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -126,10 +129,12 @@ this repository is used for leetcode
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kushalgupta-max/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/kushalgupta-max/leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kushalgupta-max/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/kushalgupta-max/leetcode/tree/master/0496-next-greater-element-i) |
 ## Number Theory
 |  |
