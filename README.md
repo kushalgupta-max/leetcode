@@ -14,6 +14,7 @@ this repository is used for leetcode
 | [0152-maximum-product-subarray](https://github.com/kushalgupta-max/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/kushalgupta-max/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/kushalgupta-max/leetcode/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kushalgupta-max/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/kushalgupta-max/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kushalgupta-max/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -148,4 +149,8 @@ this repository is used for leetcode
 | [0231-power-of-two](https://github.com/kushalgupta-max/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kushalgupta-max/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kushalgupta-max/leetcode/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/kushalgupta-max/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
