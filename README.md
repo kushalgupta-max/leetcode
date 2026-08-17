@@ -12,6 +12,7 @@ this repository is used for leetcode
 | [0128-longest-consecutive-sequence](https://github.com/kushalgupta-max/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kushalgupta-max/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/kushalgupta-max/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/kushalgupta-max/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kushalgupta-max/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/kushalgupta-max/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalgupta-max/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -152,5 +153,6 @@ this repository is used for leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/kushalgupta-max/leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalgupta-max/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
