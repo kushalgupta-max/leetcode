@@ -51,6 +51,7 @@ this repository is used for leetcode
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kushalgupta-max/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/kushalgupta-max/leetcode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kushalgupta-max/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kushalgupta-max/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting
 |  |
 | ------- |
@@ -144,6 +145,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kushalgupta-max/leetcode/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kushalgupta-max/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
