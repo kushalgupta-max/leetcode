@@ -40,6 +40,7 @@ this repository is used for leetcode
 | [0172-factorial-trailing-zeroes](https://github.com/kushalgupta-max/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/kushalgupta-max/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kushalgupta-max/leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/kushalgupta-max/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/kushalgupta-max/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kushalgupta-max/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kushalgupta-max/leetcode/tree/master/0367-valid-perfect-square) |
@@ -68,10 +69,12 @@ this repository is used for leetcode
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/kushalgupta-max/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/kushalgupta-max/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -159,4 +162,16 @@ this repository is used for leetcode
 | [0162-find-peak-element](https://github.com/kushalgupta-max/leetcode/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/kushalgupta-max/leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalgupta-max/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kushalgupta-max/leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kushalgupta-max/leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kushalgupta-max/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
