@@ -47,6 +47,7 @@ this repository is used for leetcode
 | [0342-power-of-four](https://github.com/kushalgupta-max/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kushalgupta-max/leetcode/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/kushalgupta-max/leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kushalgupta-max/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/kushalgupta-max/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kushalgupta-max/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -69,11 +70,13 @@ this repository is used for leetcode
 | [0070-climbing-stairs](https://github.com/kushalgupta-max/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/kushalgupta-max/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/kushalgupta-max/leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kushalgupta-max/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/kushalgupta-max/leetcode/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -172,6 +175,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kushalgupta-max/leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/kushalgupta-max/leetcode/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -180,6 +184,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kushalgupta-max/leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/kushalgupta-max/leetcode/tree/master/1025-divisor-game) |
 ## Sliding Window
 |  |
 | ------- |
