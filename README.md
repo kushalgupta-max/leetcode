@@ -58,6 +58,7 @@ this repository is used for leetcode
 | [3099-harshad-number](https://github.com/kushalgupta-max/leetcode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kushalgupta-max/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kushalgupta-max/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3894-traffic-signal-color](https://github.com/kushalgupta-max/leetcode/tree/master/3894-traffic-signal-color) |
 ## Counting
 |  |
 | ------- |
@@ -91,6 +92,7 @@ this repository is used for leetcode
 | ------- |
 | [0389-find-the-difference](https://github.com/kushalgupta-max/leetcode/tree/master/0389-find-the-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kushalgupta-max/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3894-traffic-signal-color](https://github.com/kushalgupta-max/leetcode/tree/master/3894-traffic-signal-color) |
 ## Greedy
 |  |
 | ------- |
@@ -106,6 +108,7 @@ this repository is used for leetcode
 | ------- |
 | [0258-add-digits](https://github.com/kushalgupta-max/leetcode/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalgupta-max/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3894-traffic-signal-color](https://github.com/kushalgupta-max/leetcode/tree/master/3894-traffic-signal-color) |
 ## Memoization
 |  |
 | ------- |
