@@ -38,6 +38,7 @@ this repository is used for leetcode
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/kushalgupta-max/leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/kushalgupta-max/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/kushalgupta-max/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/kushalgupta-max/leetcode/tree/master/0231-power-of-two) |
