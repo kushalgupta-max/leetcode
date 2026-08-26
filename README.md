@@ -9,6 +9,7 @@ this repository is used for leetcode
 | [0031-next-permutation](https://github.com/kushalgupta-max/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kushalgupta-max/leetcode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/kushalgupta-max/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/kushalgupta-max/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushalgupta-max/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kushalgupta-max/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kushalgupta-max/leetcode/tree/master/0136-single-number) |
@@ -108,6 +109,7 @@ this repository is used for leetcode
 | ------- |
 | [0031-next-permutation](https://github.com/kushalgupta-max/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kushalgupta-max/leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/kushalgupta-max/leetcode/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalgupta-max/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -138,6 +140,7 @@ this repository is used for leetcode
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kushalgupta-max/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kushalgupta-max/leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/kushalgupta-max/leetcode/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kushalgupta-max/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -198,4 +201,12 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/kushalgupta-max/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kushalgupta-max/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kushalgupta-max/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
