@@ -57,6 +57,7 @@ this repository is used for leetcode
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kushalgupta-max/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/kushalgupta-max/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kushalgupta-max/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/kushalgupta-max/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kushalgupta-max/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/kushalgupta-max/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/kushalgupta-max/leetcode/tree/master/2652-sum-multiples) |
@@ -117,6 +118,7 @@ this repository is used for leetcode
 | ------- |
 | [0258-add-digits](https://github.com/kushalgupta-max/leetcode/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalgupta-max/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/kushalgupta-max/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3701-compute-alternating-sum](https://github.com/kushalgupta-max/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/kushalgupta-max/leetcode/tree/master/3894-traffic-signal-color) |
 ## Memoization
