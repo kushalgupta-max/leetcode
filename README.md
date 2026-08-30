@@ -21,6 +21,7 @@ this repository is used for leetcode
 | [0643-maximum-average-subarray-i](https://github.com/kushalgupta-max/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/kushalgupta-max/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kushalgupta-max/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/kushalgupta-max/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kushalgupta-max/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kushalgupta-max/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -191,6 +192,7 @@ this repository is used for leetcode
 | [0367-valid-perfect-square](https://github.com/kushalgupta-max/leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalgupta-max/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/kushalgupta-max/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kushalgupta-max/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Brainteaser
 |  |
 | ------- |
