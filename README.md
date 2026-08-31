@@ -59,6 +59,7 @@ this repository is used for leetcode
 | [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kushalgupta-max/leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kushalgupta-max/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushalgupta-max/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/kushalgupta-max/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kushalgupta-max/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kushalgupta-max/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -141,6 +142,7 @@ this repository is used for leetcode
 | [0231-power-of-two](https://github.com/kushalgupta-max/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kushalgupta-max/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/kushalgupta-max/leetcode/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushalgupta-max/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kushalgupta-max/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
