@@ -1,0 +1,17 @@
+class Solution {
+    public int countOdds(int low, int high) {
+        int count=0;
+        if(low%2==0)
+        {
+            low=low+1;
+        }
+        for(int i=low;i<=high;i=i+2)
+        {
+            if(i%2!=0)
+            {
+                count++;
+            }
+        }
+        return count;
+    }
+}
