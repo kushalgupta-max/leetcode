@@ -5,17 +5,14 @@ class Solution {
         {
             return k;
         }
-        int j[]=new int[n+1];
-        for(int i=0;i<=n;i++)
-        {
-            j[i]=l[i]-(i+1);
-        }
+        int bro=0;
         int start=0;
         int end=n;
         while(start<=end)
         {
             int mid=start+(end-start)/2;
-            if(j[mid]>=k)
+            bro=l[mid]-(mid+1);
+            if(bro>=k)
             {
                 end=mid-1;
             }
@@ -24,7 +21,7 @@ class Solution {
                 start=mid+1;
             }
         }
-        k=k-j[end];
+        k=k-(l[end]-(end+1));
         int count=l[end]+k;
         return count;
     }
