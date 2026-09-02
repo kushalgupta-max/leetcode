@@ -46,6 +46,7 @@ this repository is used for leetcode
 | [0073-set-matrix-zeroes](https://github.com/kushalgupta-max/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kushalgupta-max/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kushalgupta-max/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/kushalgupta-max/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kushalgupta-max/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kushalgupta-max/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/kushalgupta-max/leetcode/tree/master/0389-find-the-difference) |
@@ -117,6 +118,7 @@ this repository is used for leetcode
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/kushalgupta-max/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kushalgupta-max/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/kushalgupta-max/leetcode/tree/master/0389-find-the-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kushalgupta-max/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
