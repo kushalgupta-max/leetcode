@@ -6,6 +6,7 @@ this repository is used for leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kushalgupta-max/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/kushalgupta-max/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kushalgupta-max/leetcode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/kushalgupta-max/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -40,6 +41,7 @@ this repository is used for leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kushalgupta-max/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kushalgupta-max/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kushalgupta-max/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kushalgupta-max/leetcode/tree/master/0169-majority-element) |
