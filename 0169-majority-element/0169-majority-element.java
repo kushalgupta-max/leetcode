@@ -1,24 +1,15 @@
 class Solution {
     public int majorityElement(int[] l) {
-        int n=l.length-1;
-        int count=1;
-        int x=l[0];
-        for(int i=1;i<=n;i++)
+        int n=l.length;
+        HashMap<Integer,Integer> map=new HashMap<>();
+        for(int i=0;i<n;i++)
         {
-            if(l[i]==x)
+            map.put(l[i],map.getOrDefault(l[i],0)+1);
+            if(map.get(l[i])>n/2)
             {
-                count++;
-            }
-            else
-            {
-                count--;
-            }
-            if(count==0)
-            {
-                x=l[i];
-                count++;
+                return l[i];
             }
         }
-        return x;
+        return -1;
     }
 }
