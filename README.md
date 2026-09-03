@@ -14,6 +14,7 @@ this repository is used for leetcode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushalgupta-max/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kushalgupta-max/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kushalgupta-max/leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/kushalgupta-max/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/kushalgupta-max/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kushalgupta-max/leetcode/tree/master/0169-majority-element) |
@@ -158,6 +159,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kushalgupta-max/leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/kushalgupta-max/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kushalgupta-max/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/kushalgupta-max/leetcode/tree/master/0389-find-the-difference) |
