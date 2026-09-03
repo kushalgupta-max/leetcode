@@ -1,11 +1,18 @@
 class Solution {
     public int singleNumber(int[] l) {
         int n=l.length-1;
-        int answer=0;
+        HashMap<Integer,Integer>map=new HashMap<>();
         for(int i=0;i<=n;i++)
         {
-            answer=answer^l[i];
+            map.put(l[i],map.getOrDefault(l[i],0)+1);
         }
-        return answer;
+        for(int i=0;i<=n;i++)
+        {
+            if(map.get(l[i])==1)
+            {
+                return l[i];
+            }
+        }
+        return -1;
     }
 }
