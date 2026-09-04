@@ -26,6 +26,7 @@ this repository is used for leetcode
 | [0643-maximum-average-subarray-i](https://github.com/kushalgupta-max/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/kushalgupta-max/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
+| [0930-binary-subarrays-with-sum](https://github.com/kushalgupta-max/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kushalgupta-max/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kushalgupta-max/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/kushalgupta-max/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -58,6 +59,7 @@ this repository is used for leetcode
 | [0389-find-the-difference](https://github.com/kushalgupta-max/leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/kushalgupta-max/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kushalgupta-max/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/kushalgupta-max/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1512-number-of-good-pairs](https://github.com/kushalgupta-max/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/kushalgupta-max/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kushalgupta-max/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -246,6 +248,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/kushalgupta-max/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/kushalgupta-max/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Quicksort
 |  |
 | ------- |
@@ -270,5 +273,6 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kushalgupta-max/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/kushalgupta-max/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [3903-smallest-stable-index-i](https://github.com/kushalgupta-max/leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
