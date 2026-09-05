@@ -48,6 +48,7 @@ this repository is used for leetcode
 | [3875-construct-uniform-parity-array-i](https://github.com/kushalgupta-max/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kushalgupta-max/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kushalgupta-max/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/kushalgupta-max/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -285,6 +286,7 @@ this repository is used for leetcode
 | [0930-binary-subarrays-with-sum](https://github.com/kushalgupta-max/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kushalgupta-max/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3903-smallest-stable-index-i](https://github.com/kushalgupta-max/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/kushalgupta-max/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
