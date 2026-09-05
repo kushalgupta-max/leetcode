@@ -2,10 +2,9 @@ class Solution {
     public boolean canConstruct(String r, String m) {
         int n=r.length()-1;
         int v=m.length()-1;
-        HashMap<Character,Integer>map=new HashMap<>();
-        for(int i=0;i<=n;i++)
+        if(n>v)
         {
-            map.put(r.charAt(i),map.getOrDefault(r.charAt(i),0)+1);
+            return false;
         }
         HashMap<Character,Integer>hash=new HashMap<>();
         for(int i=0;i<=v;i++)
@@ -16,14 +15,15 @@ class Solution {
         {
             if(hash.containsKey(r.charAt(i))==true)
             {
-                if(map.get(r.charAt(i))>hash.get(r.charAt(i)))
-                {
-                    return false;
-                }
+                hash.put(r.charAt(i),hash.get(r.charAt(i))-1);
             }
             else
             {
                 return false;
+            }
+            if(hash.get(r.charAt(i))==0)
+            {
+                hash.remove(r.charAt(i));
             }
         }
         return true;
