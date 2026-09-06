@@ -58,6 +58,7 @@ this repository is used for leetcode
 | [0073-set-matrix-zeroes](https://github.com/kushalgupta-max/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kushalgupta-max/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kushalgupta-max/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/kushalgupta-max/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kushalgupta-max/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kushalgupta-max/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -84,6 +85,7 @@ this repository is used for leetcode
 | [0009-palindrome-number](https://github.com/kushalgupta-max/leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/kushalgupta-max/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/kushalgupta-max/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/kushalgupta-max/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kushalgupta-max/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kushalgupta-max/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/kushalgupta-max/leetcode/tree/master/0292-nim-game) |
@@ -167,6 +169,7 @@ this repository is used for leetcode
 | [0031-next-permutation](https://github.com/kushalgupta-max/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kushalgupta-max/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kushalgupta-max/leetcode/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/kushalgupta-max/leetcode/tree/master/0202-happy-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalgupta-max/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -309,4 +312,8 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kushalgupta-max/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/kushalgupta-max/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
