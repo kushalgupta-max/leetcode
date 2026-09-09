@@ -41,6 +41,7 @@ this repository is used for leetcode
 | [1822-sign-of-the-product-of-an-array](https://github.com/kushalgupta-max/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kushalgupta-max/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalgupta-max/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kushalgupta-max/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/kushalgupta-max/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kushalgupta-max/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kushalgupta-max/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -79,6 +80,7 @@ this repository is used for leetcode
 | [1207-unique-number-of-occurrences](https://github.com/kushalgupta-max/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/kushalgupta-max/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/kushalgupta-max/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kushalgupta-max/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/kushalgupta-max/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kushalgupta-max/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3046-split-the-array](https://github.com/kushalgupta-max/leetcode/tree/master/3046-split-the-array) |
@@ -126,6 +128,7 @@ this repository is used for leetcode
 | [0387-first-unique-character-in-a-string](https://github.com/kushalgupta-max/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/kushalgupta-max/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/kushalgupta-max/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kushalgupta-max/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/kushalgupta-max/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3046-split-the-array](https://github.com/kushalgupta-max/leetcode/tree/master/3046-split-the-array) |
 ## Dynamic Programming
@@ -203,6 +206,7 @@ this repository is used for leetcode
 | [0342-power-of-four](https://github.com/kushalgupta-max/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/kushalgupta-max/leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushalgupta-max/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kushalgupta-max/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kushalgupta-max/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
