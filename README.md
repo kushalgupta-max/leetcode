@@ -165,6 +165,7 @@ this repository is used for leetcode
 | [0387-first-unique-character-in-a-string](https://github.com/kushalgupta-max/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kushalgupta-max/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/kushalgupta-max/leetcode/tree/master/0409-longest-palindrome) |
+| [0520-detect-capital](https://github.com/kushalgupta-max/leetcode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/kushalgupta-max/leetcode/tree/master/0771-jewels-and-stones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kushalgupta-max/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3894-traffic-signal-color](https://github.com/kushalgupta-max/leetcode/tree/master/3894-traffic-signal-color) |
