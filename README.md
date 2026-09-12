@@ -99,6 +99,7 @@ this repository is used for leetcode
 | [0326-power-of-three](https://github.com/kushalgupta-max/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kushalgupta-max/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kushalgupta-max/leetcode/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/kushalgupta-max/leetcode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/kushalgupta-max/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kushalgupta-max/leetcode/tree/master/1025-divisor-game) |
