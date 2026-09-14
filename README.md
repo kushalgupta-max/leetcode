@@ -164,6 +164,7 @@ this repository is used for leetcode
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kushalgupta-max/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/kushalgupta-max/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kushalgupta-max/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kushalgupta-max/leetcode/tree/master/0383-ransom-note) |
@@ -186,6 +187,7 @@ this repository is used for leetcode
 | [0031-next-permutation](https://github.com/kushalgupta-max/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kushalgupta-max/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kushalgupta-max/leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/kushalgupta-max/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/kushalgupta-max/leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalgupta-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalgupta-max/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
