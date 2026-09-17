@@ -271,6 +271,7 @@ this repository is used for leetcode
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kushalgupta-max/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kushalgupta-max/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kushalgupta-max/leetcode/tree/master/0342-power-of-four) |
@@ -352,4 +353,8 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/kushalgupta-max/leetcode/tree/master/1051-height-checker) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
