@@ -277,6 +277,7 @@ this repository is used for leetcode
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/kushalgupta-max/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kushalgupta-max/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kushalgupta-max/leetcode/tree/master/0326-power-of-three) |
@@ -366,6 +367,7 @@ this repository is used for leetcode
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kushalgupta-max/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/kushalgupta-max/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kushalgupta-max/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
