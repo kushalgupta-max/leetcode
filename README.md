@@ -180,6 +180,7 @@ this repository is used for leetcode
 | [0520-detect-capital](https://github.com/kushalgupta-max/leetcode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/kushalgupta-max/leetcode/tree/master/0771-jewels-and-stones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kushalgupta-max/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/kushalgupta-max/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/kushalgupta-max/leetcode/tree/master/3894-traffic-signal-color) |
 ## Greedy
 |  |
@@ -207,6 +208,7 @@ this repository is used for leetcode
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalgupta-max/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kushalgupta-max/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kushalgupta-max/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3498-reverse-degree-of-a-string](https://github.com/kushalgupta-max/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/kushalgupta-max/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/kushalgupta-max/leetcode/tree/master/3894-traffic-signal-color) |
 ## Memoization
