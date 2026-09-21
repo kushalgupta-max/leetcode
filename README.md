@@ -195,6 +195,7 @@ this repository is used for leetcode
 | [0042-trapping-rain-water](https://github.com/kushalgupta-max/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/kushalgupta-max/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/kushalgupta-max/leetcode/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/kushalgupta-max/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kushalgupta-max/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -369,6 +370,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/kushalgupta-max/leetcode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kushalgupta-max/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/kushalgupta-max/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0142-linked-list-cycle-ii) |
