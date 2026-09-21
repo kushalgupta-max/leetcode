@@ -369,6 +369,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/kushalgupta-max/leetcode/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/kushalgupta-max/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/kushalgupta-max/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/kushalgupta-max/leetcode/tree/master/0203-remove-linked-list-elements) |
