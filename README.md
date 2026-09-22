@@ -22,6 +22,7 @@ this repository is used for leetcode
 | [0219-contains-duplicate-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kushalgupta-max/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalgupta-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/kushalgupta-max/leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/kushalgupta-max/leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/kushalgupta-max/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalgupta-max/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -247,6 +248,7 @@ this repository is used for leetcode
 | [0347-top-k-frequent-elements](https://github.com/kushalgupta-max/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalgupta-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/kushalgupta-max/leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/kushalgupta-max/leetcode/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/kushalgupta-max/leetcode/tree/master/1051-height-checker) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kushalgupta-max/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kushalgupta-max/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
