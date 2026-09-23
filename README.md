@@ -201,6 +201,7 @@ this repository is used for leetcode
 | [0141-linked-list-cycle](https://github.com/kushalgupta-max/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/kushalgupta-max/leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalgupta-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalgupta-max/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -268,6 +269,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kushalgupta-max/leetcode/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kushalgupta-max/leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -287,6 +289,7 @@ this repository is used for leetcode
 | [0203-remove-linked-list-elements](https://github.com/kushalgupta-max/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kushalgupta-max/leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/kushalgupta-max/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kushalgupta-max/leetcode/tree/master/0342-power-of-four) |
 ## Binary Search
@@ -380,6 +383,7 @@ this repository is used for leetcode
 | [0142-linked-list-cycle-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/kushalgupta-max/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kushalgupta-max/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
