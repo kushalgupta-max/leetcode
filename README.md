@@ -51,6 +51,7 @@ this repository is used for leetcode
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kushalgupta-max/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3046-split-the-array](https://github.com/kushalgupta-max/leetcode/tree/master/3046-split-the-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kushalgupta-max/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kushalgupta-max/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/kushalgupta-max/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kushalgupta-max/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kushalgupta-max/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -125,6 +126,7 @@ this repository is used for leetcode
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kushalgupta-max/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/kushalgupta-max/leetcode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kushalgupta-max/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kushalgupta-max/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kushalgupta-max/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kushalgupta-max/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/kushalgupta-max/leetcode/tree/master/3870-count-commas-in-range) |
