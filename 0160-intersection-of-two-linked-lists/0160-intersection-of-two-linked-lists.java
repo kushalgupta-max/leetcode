@@ -25,18 +25,33 @@ public class Solution {
             pro++;
             tail=tail.next;
         }
-        for(int i=0;i<count-1;i++)
+        int x=1;
+        if(pro>count)
         {
-            temp=headB;
-            for(int j=0;j<pro-1;j++)
+            pro=pro-count;
+            while(x<=pro)
             {
-                if(headA==temp)
-                {
-                    return headA;
-                }
-                temp=temp.next;
+                x++;
+                headB=headB.next;
+            }
+        }
+        else
+        {
+            count=count-pro;
+            while(x<=count)
+            {
+                x++;
+                headA=headA.next;
+            }
+        }
+        while(headA!=null)
+        {
+            if(headA==headB)
+            {
+                return headA;
             }
             headA=headA.next;
+            headB=headB.next;
         }
         return null;
     }
