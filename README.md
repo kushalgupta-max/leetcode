@@ -213,6 +213,7 @@ this repository is used for leetcode
 | [0349-intersection-of-two-arrays](https://github.com/kushalgupta-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalgupta-max/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -282,6 +283,7 @@ this repository is used for leetcode
 | [0234-palindrome-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kushalgupta-max/leetcode/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kushalgupta-max/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -407,6 +409,7 @@ this repository is used for leetcode
 | [0876-middle-of-the-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kushalgupta-max/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
