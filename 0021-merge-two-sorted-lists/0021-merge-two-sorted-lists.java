@@ -1,75 +1,25 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
- class ll
- {
-    ListNode head=null;
-    ListNode tail=null;
-    public ListNode merge(ListNode l1,ListNode l2)
-    {
-        while(l1!=null&&l2!=null)
+class Solution {
+    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        ListNode temp=new ListNode(100);
+        ListNode tail=temp;
+        while(list1!=null&&list2!=null)
         {
-        if(l1.val<l2.val)
+        if(list1.val<list2.val)
         {
-            ListNode node=l1;
-            if(head==null)
-            {
-                head=node;
-                tail=node;
-            }
-            else
-            {
-                tail.next=node;
-                tail=node;
-            }
-            l1=l1.next;
+            ListNode node=list1;
+            tail.next=node;
+            tail=tail.next;
+            list1=list1.next;
         }
         else
         {
-            ListNode node=l2;
-            if(head==null)
-            {
-                head=node;
-                tail=node;
-            }
-            else
-            {
-                tail.next=node;
-                tail=node;
-            }
-            l2=l2.next;
+            ListNode node=list2;
+            tail.next=node;
+            tail=tail.next;
+            list2=list2.next;
         }
         }
-        if(l1!=null)
-        {
-            tail.next=l1;
-        }
-        if(l2!=null)
-        {
-            tail.next=l2;
-        }
-        return head;
-    }
- }
-class Solution {
-    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        if(list1==null)
-        {
-            return list2;
-        }
-        else if(list2==null)
-        {
-            return list1;
-        }
-        ll obj=new ll();
-        ListNode newhead=obj.merge(list1,list2);
-        return newhead;
+        tail.next=(list1!=null)?list1:list2;
+        return temp.next;
     }
 }
