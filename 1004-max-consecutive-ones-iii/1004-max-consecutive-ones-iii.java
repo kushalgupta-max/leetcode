@@ -5,29 +5,22 @@ class Solution {
         int count=0;
         int x=0;
         int j=0;
-        int i=0;
-        while(i<n)
+        for(int i=0;i<n;i++)
         {
-            if(l[i]==0)
-            {
+           if(l[i]==0)
+           {
                 x++;
-            }
-            if(x>k)
-            {
-                while(l[j]!=0)
+           }
+           if(x>k)
+           {
+                if(l[j]==0)
                 {
-                    j++;
+                    x--;
                 }
                 j++;
-                x--;
-            }
-            i++;
-            if(i>n)
-            {
-                count--;
-            }
-            count=i-j;
-            max=Math.max(max,count);
+           }
+           count=i-j+1;
+           max=Math.max(max,count);
         }
         return max;
     }
