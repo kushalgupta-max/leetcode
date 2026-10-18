@@ -29,6 +29,7 @@ this repository is used for leetcode
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalgupta-max/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kushalgupta-max/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kushalgupta-max/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/kushalgupta-max/leetcode/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/kushalgupta-max/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/kushalgupta-max/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -243,6 +244,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kushalgupta-max/leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/kushalgupta-max/leetcode/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalgupta-max/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kushalgupta-max/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kushalgupta-max/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -308,6 +310,7 @@ this repository is used for leetcode
 | [0143-reorder-list](https://github.com/kushalgupta-max/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kushalgupta-max/leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/kushalgupta-max/leetcode/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kushalgupta-max/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
