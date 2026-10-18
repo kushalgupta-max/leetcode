@@ -193,6 +193,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kushalgupta-max/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/kushalgupta-max/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kushalgupta-max/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kushalgupta-max/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/kushalgupta-max/leetcode/tree/master/0205-isomorphic-strings) |
@@ -306,6 +307,7 @@ this repository is used for leetcode
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kushalgupta-max/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kushalgupta-max/leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kushalgupta-max/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -458,5 +460,6 @@ this repository is used for leetcode
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kushalgupta-max/leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kushalgupta-max/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
