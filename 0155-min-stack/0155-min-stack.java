@@ -1,24 +1,24 @@
 class MinStack {
     private Stack<Integer>stack=new Stack<>();
-    private int min=Integer.MAX_VALUE;
     private Stack<Integer>stk=new Stack<>();
     public MinStack() {
+        
     }
     
     public void push(int value) {
+        stack.push(value);
         if(stk.empty())
         {
-            stk.push(Integer.MAX_VALUE);
+            stk.push(value);
         }
-        stack.push(value);
-        if(stk.peek()>=stack.peek())
+        else if(stk.peek()>=stack.peek())
         {
             stk.push(stack.peek());
         }
     }
     
     public void pop() {
-        if(stack.peek()==stk.peek())
+        if(stack.peek().equals(stk.peek()))
         {
             stk.pop();
         }
