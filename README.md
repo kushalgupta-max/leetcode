@@ -205,6 +205,7 @@ this repository is used for leetcode
 | [0520-detect-capital](https://github.com/kushalgupta-max/leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/kushalgupta-max/leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/kushalgupta-max/leetcode/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/kushalgupta-max/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kushalgupta-max/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kushalgupta-max/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kushalgupta-max/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -238,6 +239,7 @@ this repository is used for leetcode
 | [0234-palindrome-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalgupta-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/kushalgupta-max/leetcode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/kushalgupta-max/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -247,6 +249,7 @@ this repository is used for leetcode
 | ------- |
 | [0258-add-digits](https://github.com/kushalgupta-max/leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/kushalgupta-max/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/kushalgupta-max/leetcode/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalgupta-max/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kushalgupta-max/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kushalgupta-max/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -314,6 +317,7 @@ this repository is used for leetcode
 | [0234-palindrome-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kushalgupta-max/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kushalgupta-max/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/kushalgupta-max/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kushalgupta-max/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kushalgupta-max/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
