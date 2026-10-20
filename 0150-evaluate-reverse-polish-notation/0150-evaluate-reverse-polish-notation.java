@@ -10,34 +10,26 @@ class Solution {
             }
             else if(l[i].equals("+"))
             {
-                int x=stack.peek();
-                stack.pop();
-                int y=stack.peek();
-                stack.pop();
+                int x=stack.pop();
+                int y=stack.pop();
                 stack.push(x+y);
             }
             else if(l[i].equals("-"))
             {
-                int x=stack.peek();
-                stack.pop();
-                int y=stack.peek();
-                stack.pop();
+                int x=stack.pop();
+                int y=stack.pop();
                 stack.push(y-x);
             }
             else if(l[i].equals("*"))
             {
-                int x=stack.peek();
-                stack.pop();
-                int y=stack.peek();
-                stack.pop();
+                int x=stack.pop();
+                int y=stack.pop();
                 stack.push(x*y);
             }
             else
             {
-                int x=stack.peek();
-                stack.pop();
-                int y=stack.peek();
-                stack.pop();
+                int x=stack.pop();
+                int y=stack.pop();
                 stack.push(y/x);
             }
         }
