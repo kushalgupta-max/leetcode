@@ -7,11 +7,7 @@ class Solution {
         {
             set.add(s.charAt(i));
         }
-        for(int i:set)
-        {
-            count++;
-        }
-        if(count==26)
+        if(set.size()==26)
         {
             return true;
         }
