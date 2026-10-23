@@ -215,6 +215,7 @@ this repository is used for leetcode
 | [0567-permutation-in-string](https://github.com/kushalgupta-max/leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/kushalgupta-max/leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/kushalgupta-max/leetcode/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/kushalgupta-max/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kushalgupta-max/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kushalgupta-max/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kushalgupta-max/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -337,6 +338,7 @@ this repository is used for leetcode
 | [0496-next-greater-element-i](https://github.com/kushalgupta-max/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kushalgupta-max/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/kushalgupta-max/leetcode/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/kushalgupta-max/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kushalgupta-max/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kushalgupta-max/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/kushalgupta-max/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -488,6 +490,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kushalgupta-max/leetcode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/kushalgupta-max/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kushalgupta-max/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
