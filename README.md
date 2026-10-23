@@ -23,6 +23,7 @@ this repository is used for leetcode
 | [0217-contains-duplicate](https://github.com/kushalgupta-max/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/kushalgupta-max/leetcode/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/kushalgupta-max/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalgupta-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kushalgupta-max/leetcode/tree/master/0414-third-maximum-number) |
@@ -283,6 +284,7 @@ this repository is used for leetcode
 | [0136-single-number](https://github.com/kushalgupta-max/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/kushalgupta-max/leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/kushalgupta-max/leetcode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/kushalgupta-max/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/kushalgupta-max/leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushalgupta-max/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
