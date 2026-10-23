@@ -3,14 +3,14 @@ class Solution {
         char l[]=s.toCharArray();
         int n=l.length;
         int x=0;
-        ArrayList<Character>list=new ArrayList<>();
+        StringBuilder sb=new StringBuilder();
         for(int i=0;i<n;i++)
         {
             if(l[i]=='(')
             {
                 if(x!=0)
                 {
-                    list.add(l[i]);
+                    sb.append(l[i]);
                 }
                 x++;
             }
@@ -19,14 +19,9 @@ class Solution {
                 x--;
                 if(x!=0)
                 {
-                    list.add(l[i]);
+                    sb.append(l[i]);
                 }
             }
-        }
-        StringBuilder sb=new StringBuilder();
-        for(char i:list)
-        {
-            sb.append(i);
         }
         String t=new String(sb);
         return t;
