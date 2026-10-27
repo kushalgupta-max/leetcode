@@ -7,6 +7,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kushalgupta-max/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kushalgupta-max/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/kushalgupta-max/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kushalgupta-max/leetcode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/kushalgupta-max/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -232,6 +233,7 @@ this repository is used for leetcode
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kushalgupta-max/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/kushalgupta-max/leetcode/tree/master/0409-longest-palindrome) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kushalgupta-max/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kushalgupta-max/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -239,6 +241,7 @@ this repository is used for leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kushalgupta-max/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kushalgupta-max/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/kushalgupta-max/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kushalgupta-max/leetcode/tree/master/0042-trapping-rain-water) |
