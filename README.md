@@ -36,6 +36,7 @@ this repository is used for leetcode
 | [0560-subarray-sum-equals-k](https://github.com/kushalgupta-max/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kushalgupta-max/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/kushalgupta-max/leetcode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/kushalgupta-max/leetcode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/kushalgupta-max/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/kushalgupta-max/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -282,6 +283,7 @@ this repository is used for leetcode
 | ------- |
 | [0258-add-digits](https://github.com/kushalgupta-max/leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/kushalgupta-max/leetcode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/kushalgupta-max/leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/kushalgupta-max/leetcode/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalgupta-max/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kushalgupta-max/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -359,6 +361,7 @@ this repository is used for leetcode
 | [0234-palindrome-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kushalgupta-max/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kushalgupta-max/leetcode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/kushalgupta-max/leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/kushalgupta-max/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kushalgupta-max/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kushalgupta-max/leetcode/tree/master/1021-remove-outermost-parentheses) |
