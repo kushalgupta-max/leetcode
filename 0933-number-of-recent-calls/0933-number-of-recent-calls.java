@@ -9,15 +9,12 @@ class RecentCounter {
         if(!queue.isEmpty())
         {
             x=t-queue.peek();
-        }
-        if(x>3000)
-        {   
-            while(!queue.isEmpty()&&x>3000)
-            {
-                queue.remove();
-                if(!queue.isEmpty())
-                x=t-queue.peek();
-            }   
+        }  
+        while(!queue.isEmpty()&&x>3000)
+        {
+            queue.remove();
+            if(!queue.isEmpty())
+            x=t-queue.peek();
         }
         queue.offer(t);
         return queue.size();
