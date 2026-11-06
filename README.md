@@ -361,6 +361,7 @@ this repository is used for leetcode
 | [0143-reorder-list](https://github.com/kushalgupta-max/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kushalgupta-max/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kushalgupta-max/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/kushalgupta-max/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kushalgupta-max/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kushalgupta-max/leetcode/tree/master/0682-baseball-game) |
@@ -484,6 +485,7 @@ this repository is used for leetcode
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kushalgupta-max/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushalgupta-max/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/kushalgupta-max/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Floyd's Cycle Finding Algorithm
@@ -532,6 +534,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kushalgupta-max/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/kushalgupta-max/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/kushalgupta-max/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
