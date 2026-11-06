@@ -16,8 +16,7 @@ class MyStack {
     }
     
     public int pop() {
-        int i=queue.remove();
-        return i;
+        return queue.remove();
     }
     
     public int top() {
