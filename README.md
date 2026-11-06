@@ -485,6 +485,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kushalgupta-max/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/kushalgupta-max/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -531,4 +532,9 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kushalgupta-max/leetcode/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/kushalgupta-max/leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/kushalgupta-max/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
