@@ -10,7 +10,7 @@ class MyQueue {
         {
             stk.push(stack.pop());
         }
-        stk.push(x);
+        stack.push(x);
         while(!stk.isEmpty())
         {
             stack.push(stk.pop());
