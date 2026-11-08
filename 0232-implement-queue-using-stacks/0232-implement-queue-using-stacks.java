@@ -10,33 +10,30 @@ class MyQueue {
     }
     
     public int pop() {
+        if(stk.isEmpty()){
         while(!stack.isEmpty())
         {
             stk.push(stack.pop());
         }
-        int x=stk.pop();
-        while(!stk.isEmpty())
-        {
-            stack.push(stk.pop());
         }
+        int x=stk.pop();
         return x;
     }
     
     public int peek() {
+        if(stk.isEmpty())
+        {
         while(!stack.isEmpty())
         {
             stk.push(stack.pop());
         }
-        int x=stk.peek();
-        while(!stk.isEmpty())
-        {
-            stack.push(stk.pop());
         }
+        int x=stk.peek();
         return x;
     }
     
     public boolean empty() {
-        return stack.isEmpty();
+        return stack.isEmpty()&&stk.isEmpty();
     }
 }
 
