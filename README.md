@@ -242,6 +242,7 @@ this repository is used for leetcode
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kushalgupta-max/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kushalgupta-max/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/kushalgupta-max/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/kushalgupta-max/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kushalgupta-max/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3174-clear-digits](https://github.com/kushalgupta-max/leetcode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/kushalgupta-max/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -294,6 +295,7 @@ this repository is used for leetcode
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalgupta-max/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kushalgupta-max/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kushalgupta-max/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/kushalgupta-max/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/kushalgupta-max/leetcode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/kushalgupta-max/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/kushalgupta-max/leetcode/tree/master/3701-compute-alternating-sum) |
@@ -381,6 +383,7 @@ this repository is used for leetcode
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kushalgupta-max/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/kushalgupta-max/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/kushalgupta-max/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/kushalgupta-max/leetcode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
