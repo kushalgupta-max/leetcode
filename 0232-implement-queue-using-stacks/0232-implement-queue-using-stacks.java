@@ -6,23 +6,33 @@ class MyQueue {
     }
     
     public void push(int x) {
+        stack.push(x);
+    }
+    
+    public int pop() {
         while(!stack.isEmpty())
         {
             stk.push(stack.pop());
         }
-        stack.push(x);
+        int x=stk.pop();
         while(!stk.isEmpty())
         {
             stack.push(stk.pop());
         }
-    }
-    
-    public int pop() {
-        return stack.pop();
+        return x;
     }
     
     public int peek() {
-        return stack.peek();
+        while(!stack.isEmpty())
+        {
+            stk.push(stack.pop());
+        }
+        int x=stk.peek();
+        while(!stk.isEmpty())
+        {
+            stack.push(stk.pop());
+        }
+        return x;
     }
     
     public boolean empty() {
