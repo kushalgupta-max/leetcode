@@ -10,6 +10,13 @@ class Solution {
         stack.push(l[n-1]);
         for(int i=n-2;i>=0;i--)
         {
+            if(stack.peek()<l[i])
+            {
+                while(!stack.isEmpty()&&stack.peek()>l[i])
+                {
+                    stack.pop();
+                }
+            }
             stack.push(l[i]);
         }
         for(int i=n-1;i>=0;i--)
