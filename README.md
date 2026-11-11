@@ -379,6 +379,7 @@ this repository is used for leetcode
 | [0735-asteroid-collision](https://github.com/kushalgupta-max/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kushalgupta-max/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/kushalgupta-max/leetcode/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/kushalgupta-max/leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kushalgupta-max/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kushalgupta-max/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kushalgupta-max/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -398,6 +399,7 @@ this repository is used for leetcode
 | [0496-next-greater-element-i](https://github.com/kushalgupta-max/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kushalgupta-max/leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/kushalgupta-max/leetcode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kushalgupta-max/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Number Theory
 |  |
@@ -557,9 +559,11 @@ this repository is used for leetcode
 | [0155-min-stack](https://github.com/kushalgupta-max/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kushalgupta-max/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kushalgupta-max/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/kushalgupta-max/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/kushalgupta-max/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/kushalgupta-max/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/kushalgupta-max/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
