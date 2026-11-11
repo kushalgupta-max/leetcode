@@ -6,7 +6,7 @@ class Solution {
         int k[]=new int[n];
         for(int i=n-2;i>=0;i--)
         {
-            if(!stack.isEmpty()&&l[stack.peek()]>l[i])
+            if(l[stack.peek()]>l[i])
             {
                 k[i]=stack.peek()-i;
             }
