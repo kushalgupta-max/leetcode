@@ -1,37 +1,56 @@
 class Solution {
-    public int party(int []l,int start,int end)
+    public void conqure(int l[],int start,int end,int mid)
     {
-        int index=start-1;
-        int swap=0;
-        for(int i=start;i<end;i++)
+        int k[]=new int[end+1-start];
+        int i=start;
+        int j=mid+1;
+        int v=0;
+        while(i<=mid&&j<=end)
         {
-            if(l[i]<=l[end])
+            if(l[i]>l[j])
             {
-                index++;
-                swap=l[index];
-                l[index]=l[i];
-                l[i]=swap;
+                k[v]=l[j];
+                j++;
             }
+            else
+            {
+                k[v]=l[i];
+                i++;
+            }
+            v++;
         }
-        index++;
-        swap=l[index];
-        l[index]=l[end];
-        l[end]=swap;
-        return index;
-    }
-    public void quick(int l[],int start,int end)
-    {
-        if(start<end)
+        while(i<=mid)
         {
-            int pivt=party(l,start,end);
-            quick(l,start,pivt-1);
-            quick(l,pivt+1,end);
+            k[v]=l[i];
+            v++;
+            i++;
         }
+        while(j<=end)
+        {
+            k[v]=l[j];
+            v++;
+            j++;
+        }
+        for(int w=0,o=start;w<k.length;w++,o++)
+        {
+            l[o]=k[w];
+        }
+    }
+    public void divide(int l[],int start,int end)
+    {
+        if(start==end)
+        {
+            return;
+        }
+        int mid=start+(end-start)/2;
+        divide(l,start,mid);
+        divide(l,mid+1,end);
+        conqure(l,start,end,mid);
     }
     public void sortColors(int[] l) {
         int n=l.length;
         int start=0;
         int end=n-1;
-        quick(l,start,end);
+        divide(l,start,end);
     }
 }
