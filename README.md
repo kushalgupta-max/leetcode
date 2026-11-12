@@ -45,6 +45,7 @@ this repository is used for leetcode
 | [0930-binary-subarrays-with-sum](https://github.com/kushalgupta-max/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kushalgupta-max/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kushalgupta-max/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/kushalgupta-max/leetcode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/kushalgupta-max/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kushalgupta-max/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -382,6 +383,7 @@ this repository is used for leetcode
 | [0844-backspace-string-compare](https://github.com/kushalgupta-max/leetcode/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/kushalgupta-max/leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kushalgupta-max/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/kushalgupta-max/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kushalgupta-max/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kushalgupta-max/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -401,6 +403,7 @@ this repository is used for leetcode
 | [0503-next-greater-element-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kushalgupta-max/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kushalgupta-max/leetcode/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kushalgupta-max/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Number Theory
 |  |
@@ -543,6 +546,7 @@ this repository is used for leetcode
 | [0237-delete-node-in-a-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kushalgupta-max/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
