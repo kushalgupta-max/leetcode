@@ -36,6 +36,7 @@ this repository is used for leetcode
 | [0523-continuous-subarray-sum](https://github.com/kushalgupta-max/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalgupta-max/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kushalgupta-max/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/kushalgupta-max/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/kushalgupta-max/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/kushalgupta-max/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kushalgupta-max/leetcode/tree/master/0735-asteroid-collision) |
@@ -258,6 +259,7 @@ this repository is used for leetcode
 | ------- |
 | [0011-container-with-most-water](https://github.com/kushalgupta-max/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/kushalgupta-max/leetcode/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/kushalgupta-max/leetcode/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kushalgupta-max/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kushalgupta-max/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kushalgupta-max/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
