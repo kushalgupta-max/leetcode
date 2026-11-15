@@ -63,6 +63,7 @@ this repository is used for leetcode
 | [1748-sum-of-unique-elements](https://github.com/kushalgupta-max/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kushalgupta-max/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kushalgupta-max/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/kushalgupta-max/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kushalgupta-max/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kushalgupta-max/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kushalgupta-max/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -395,6 +396,7 @@ this repository is used for leetcode
 | [1544-make-the-string-great](https://github.com/kushalgupta-max/leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kushalgupta-max/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kushalgupta-max/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/kushalgupta-max/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/kushalgupta-max/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -410,6 +412,7 @@ this repository is used for leetcode
 | [0901-online-stock-span](https://github.com/kushalgupta-max/leetcode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kushalgupta-max/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/kushalgupta-max/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Number Theory
 |  |
