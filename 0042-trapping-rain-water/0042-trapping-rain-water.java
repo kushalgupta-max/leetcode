@@ -1,33 +1,30 @@
 class Solution {
     public int trap(int[] l) {
-        
-         //calculating lmb
-        int left[]=new int[l.length];
-        left[0]=l[0];
-        for(int i=1;i<=l.length-1;i++)
+        int n=l.length;
+        int i=0;
+        int j=n-1;
+        int lmax=0;
+        int rmax=0;
+        int total=0;
+        int count=0;
+        int res=0;
+        while(i<j)
         {
-            left[i]=Math.max(left[i-1],l[i]);
+            lmax=Math.max(lmax,l[i]);
+            rmax=Math.max(rmax,l[j]);
+            int v=Math.min(lmax,rmax);
+            if(lmax<rmax)
+            {
+                res=v-l[i];
+                i++;
+            }
+            else
+            {
+                res=v-l[j];
+                j--;
+            }
+            count=count+res;
         }
-        //calculating rmb
-        int right[]=new int[l.length];
-        right[l.length-1]=l[l.length-1];
-        for(int i=l.length-2;i>=0;i--)
-        {
-            right[i]=Math.max(right[i+1],l[i]);
-        }
-        //calculating trapped rain water
-        int trappedwater[]=new int[l.length];
-        for(int i=0;i<l.length;i++)
-        {
-            int x=Math.min(right[i],left[i]);
-            trappedwater[i]=x-l[i];
-        }
-        // calculating total trapped water
-        int totaltrappedwater=0;
-        for(int i=0;i<l.length;i++)
-        {
-            totaltrappedwater=totaltrappedwater+trappedwater[i];
-        }
-           return totaltrappedwater;
-   }
+        return count;
+    }
 }
