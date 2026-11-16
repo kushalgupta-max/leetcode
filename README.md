@@ -233,6 +233,7 @@ this repository is used for leetcode
 | [0383-ransom-note](https://github.com/kushalgupta-max/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushalgupta-max/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kushalgupta-max/leetcode/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/kushalgupta-max/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/kushalgupta-max/leetcode/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/kushalgupta-max/leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/kushalgupta-max/leetcode/tree/master/0567-permutation-in-string) |
@@ -259,6 +260,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kushalgupta-max/leetcode/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/kushalgupta-max/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/kushalgupta-max/leetcode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/kushalgupta-max/leetcode/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kushalgupta-max/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -380,6 +382,7 @@ this repository is used for leetcode
 | [0225-implement-stack-using-queues](https://github.com/kushalgupta-max/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kushalgupta-max/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/kushalgupta-max/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kushalgupta-max/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/kushalgupta-max/leetcode/tree/master/0682-baseball-game) |
@@ -406,6 +409,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kushalgupta-max/leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/kushalgupta-max/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kushalgupta-max/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kushalgupta-max/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kushalgupta-max/leetcode/tree/master/0739-daily-temperatures) |
