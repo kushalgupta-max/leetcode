@@ -40,21 +40,6 @@ class Solution {
         {
             sb.append(a);
         }
-        HashSet<Character>pet=new HashSet<>();
-        pet.add(sb.charAt(0));
-        int i=1;
-        while(i<sb.length())
-        {
-            if(pet.contains(sb.charAt(i)))
-            {
-                sb.deleteCharAt(i);
-            }
-            else
-            {
-                pet.add(sb.charAt(i));
-                i++;
-            }
-        }
         String t=new String(sb);
         return t;
     }
