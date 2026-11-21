@@ -76,6 +76,7 @@ this repository is used for leetcode
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kushalgupta-max/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kushalgupta-max/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kushalgupta-max/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2974-minimum-number-game](https://github.com/kushalgupta-max/leetcode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kushalgupta-max/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3046-split-the-array](https://github.com/kushalgupta-max/leetcode/tree/master/3046-split-the-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kushalgupta-max/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -315,6 +316,7 @@ this repository is used for leetcode
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kushalgupta-max/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kushalgupta-max/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kushalgupta-max/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2974-minimum-number-game](https://github.com/kushalgupta-max/leetcode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/kushalgupta-max/leetcode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/kushalgupta-max/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/kushalgupta-max/leetcode/tree/master/3701-compute-alternating-sum) |
@@ -363,6 +365,7 @@ this repository is used for leetcode
 | [2089-find-target-indices-after-sorting-array](https://github.com/kushalgupta-max/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/kushalgupta-max/leetcode/tree/master/2126-destroying-asteroids) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kushalgupta-max/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2974-minimum-number-game](https://github.com/kushalgupta-max/leetcode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kushalgupta-max/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kushalgupta-max/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -508,6 +511,7 @@ this repository is used for leetcode
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kushalgupta-max/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2974-minimum-number-game](https://github.com/kushalgupta-max/leetcode/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
