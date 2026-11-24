@@ -8,7 +8,7 @@ class Solution {
             min=Math.min(min,l[i]);
             max=Math.max(max,l[i]);
         }
-        while(min!=0&&max!=0)
+        while(min!=0)
         {
             int x=max;
             max=min;
