@@ -14,10 +14,6 @@ class Solution {
             max=min;
             min=x%min;
         }
-        if(min!=0)
-        {
-            return min;
-        }
         return max;
     }
 }
