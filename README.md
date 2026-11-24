@@ -51,6 +51,7 @@ this repository is used for leetcode
 | [1019-next-greater-node-in-linked-list](https://github.com/kushalgupta-max/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/kushalgupta-max/leetcode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/kushalgupta-max/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kushalgupta-max/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kushalgupta-max/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kushalgupta-max/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1352-product-of-the-last-k-numbers](https://github.com/kushalgupta-max/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -127,6 +128,7 @@ this repository is used for leetcode
 | [0974-subarray-sums-divisible-by-k](https://github.com/kushalgupta-max/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/kushalgupta-max/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/kushalgupta-max/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kushalgupta-max/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kushalgupta-max/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/kushalgupta-max/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/kushalgupta-max/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -159,6 +161,7 @@ this repository is used for leetcode
 | [0523-continuous-subarray-sum](https://github.com/kushalgupta-max/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/kushalgupta-max/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kushalgupta-max/leetcode/tree/master/1025-divisor-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kushalgupta-max/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kushalgupta-max/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kushalgupta-max/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushalgupta-max/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -499,6 +502,7 @@ this repository is used for leetcode
 | [0904-fruit-into-baskets](https://github.com/kushalgupta-max/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kushalgupta-max/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kushalgupta-max/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kushalgupta-max/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kushalgupta-max/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kushalgupta-max/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kushalgupta-max/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -535,6 +539,7 @@ this repository is used for leetcode
 | [0930-binary-subarrays-with-sum](https://github.com/kushalgupta-max/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kushalgupta-max/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kushalgupta-max/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kushalgupta-max/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/kushalgupta-max/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kushalgupta-max/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/kushalgupta-max/leetcode/tree/master/3903-smallest-stable-index-i) |
