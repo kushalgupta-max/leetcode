@@ -71,6 +71,7 @@ this repository is used for leetcode
 | [2073-time-needed-to-buy-tickets](https://github.com/kushalgupta-max/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kushalgupta-max/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kushalgupta-max/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/kushalgupta-max/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/kushalgupta-max/leetcode/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalgupta-max/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kushalgupta-max/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -263,6 +264,7 @@ this repository is used for leetcode
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kushalgupta-max/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kushalgupta-max/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/kushalgupta-max/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/kushalgupta-max/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kushalgupta-max/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kushalgupta-max/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kushalgupta-max/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
